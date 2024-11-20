@@ -1,16 +1,11 @@
 # wallet_app
 
-A new Flutter project.
+A simple wallet app using flutter to keep track of balance and transaction history.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+There is no function for now, the concept is there for references.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1732081884](https://github.com/user-attachments/assets/d7beb76a-7366-44f6-8a3a-d1e579476cef)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1732081900](https://github.com/user-attachments/assets/594ad6ce-7cd2-4be4-969c-f46b76d3f0f9)
