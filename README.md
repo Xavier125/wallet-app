@@ -1,4 +1,4 @@
-# wallet_app
+# Wallet App
 
 A simple wallet app using flutter to keep track of balance and transaction history.
 
